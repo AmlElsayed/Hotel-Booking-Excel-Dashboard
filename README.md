@@ -12,3 +12,5 @@ The Excel-based Hotel Booking Dashboard that I created as part of my work at NTI
 - Power Query: To clean and process data.
 - Pivot Tables: For summarizing key insights.
 - Charts & Graphs: For visualizing booking trends and hotel statistics.
+## Dashboard
+![Screenshot (376)](https://github.com/user-attachments/assets/4022a1a2-2504-4f6e-94d8-d1eba41ce17a)
